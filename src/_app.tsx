@@ -10,3 +10,5 @@ export default function App({
     </SessionProvider>
   );
 }
+
+// доделать
